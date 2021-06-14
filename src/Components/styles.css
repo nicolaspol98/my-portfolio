@@ -1,0 +1,17 @@
+.gridContainer {
+  height: 100vh;
+  background-color: #263238;
+}
+
+.yellowGrid {
+  background-color: #ffee58;
+  height: 75vh;
+  padding-top: 30vh;
+}
+
+.pageButton {
+  text-align: start;
+  padding: 1em 2.5em 1em 2.5em !important;
+  display: block !important;
+  font-size: x-large !important;
+}
